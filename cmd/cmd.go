@@ -1,4 +1,4 @@
-package main
+package cmd
 
 import (
 	"fmt"
@@ -6,6 +6,6 @@ import (
 	_ "github.com/aws/aws-sdk-go/aws/awserr"
 )
 
-func main() {
+func Run() {
 	fmt.Println("running import-go-modules")
 }
