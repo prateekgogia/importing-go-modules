@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/prateekgogia/importing-go-modules/substrate/cmd"
+	"github.com/prateekgogia/igm/substrate/cmd"
 )
 
 func main() {
