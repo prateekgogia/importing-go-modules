@@ -6,6 +6,6 @@ import (
 	_ "github.com/aws/aws-sdk-go/aws/awserr"
 )
 
-func Run() {
-	fmt.Println("running import-go-modules in substrate")
+func Run(v string) {
+	fmt.Println("running import-go-modules in ", v)
 }
