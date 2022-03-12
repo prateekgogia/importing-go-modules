@@ -1,4 +1,4 @@
-module github.com/prateekgogia/igm/substrate
+module github.com/prateekgogia/importing-go-modules/substrate
 
 go 1.17
 
